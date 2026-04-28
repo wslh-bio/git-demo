@@ -1,3 +1,3 @@
 #!/bin/bash
 
-base32 -d f.b64 | display
+base64 -d f.b64 | display
